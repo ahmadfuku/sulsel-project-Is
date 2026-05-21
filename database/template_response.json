@@ -1,0 +1,21 @@
+{
+    "deposit_failed": "*[ Deposit Gagal ]*\n\n- *No. Referensi:* {ref_id}\n- *Metode Pembayaran:* {payment_method}\n- *Jumlah:* {amount}\n- *Status:* {status}\n- *Waktu:* {time}\n\nMohon maaf, deposit kamu tidak berhasil di *{store_name}*",
+    "deposit_notification": "*[ Notifikasi Deposit ]*\n\n- *Pelanggan:* {user_name}\n- *No. Referensi:* {ref_id}\n- *Jumlah:* {amount}\n- *Saldo Awal:* {initial_balance}\n- *Saldo Akhir:* {final_balance}\n- *Status:* {status}\n- *Waktu:* {time}",
+    "deposit_preview": "*[ Rincian Deposit ]*\n\n- *No. Deposit:* {ref_id}\n- *Jumlah Deposit:* {amount}\n- *Biaya Admin:* \n- *Total Pembayaran:* \n- *Saldo Awal:* {initial_balance}\n- *Saldo Akhir:* {final_balance}\n- *Status:* {status}\n- *Waktu:* {time}\n\n*Silakan lakukan pembayaran dengan scan QRIS di atas.*\n*Setelah pembayaran berhasil, disini deposit Anda akan terverifikasi otomatis.*",
+    "deposit_processing": "*[ Rincian Deposit ]*\n\n- *No. Referensi:* {ref_id}\n- *No. Tujuan:* {customer_no}\n- *Jumlah:* {amount}\n- *Batas Waktu:* {expiry_time} WIB\n\nSilahkan selesaikan pembayaran sebelum batas waktu yang ditentukan.",
+    "deposit_success": "*[ Deposit Sukses ]*\n\n- *No. Referensi:* {ref_id}\n- *No. Tujuan:* {customer_no}\n- *Jumlah:* {amount}\n- *Saldo Awal:* {initial_balance}\n- *Saldo Akhir:* {final_balance}\n- *Serial Number:* {sn}\n- *Status:* {status}\n- *Waktu:* {time}\n\nTerima kasih, deposit kamu sudah berhasil di *{store_name}*",
+    "format_roblox": "ʚɞ ⁺˖ ⸝⸝ *𝓯.𝗈𝗋𝗆𝖺𝗍* — 𝐯𝐢𝐥𝐨𝐠 𝐫𝐨𝐛𝐥𝐨𝐱 ᥴ⃘ᦱ ᪲ ׄ⸼ ˚ \n\n𝅄 ‌𖹭 username / email ׄ⸼ ⦂\n𝅄 ‌𖹭 password ׄ⸼ ⦂ \n𝅄 ‌𖹭 kode backup ׄ⸼ ⦂ \n𝅄 ‌𖹭 jumlah 𝗈𝗋𝖽𝖾𝗋 ׄ⸼ ⦂ \n𝅄 ‌𖹭 sisa robux ׄ⸼ ⦂ \n\n𝐓𝐞𝐧𝐜𝐮 𝐬𝐮𝐝𝐚𝐡 𝐩𝐞𝐫𝐜𝐚𝐲𝐚 𝐝𝐚𝐧 𝐨𝐫𝐝𝐞𝐫 𝐝𝐢 𝐂𝐚𝐬𝐬𝐢𝐚 𝐒𝐭𝐨𝐫𝐞 𝐲𝐚, 𝐝𝐢𝐭𝐮𝐧𝐠𝐠𝐮 𝐧𝐞𝐱𝐭 𝐨𝐫𝐝𝐞𝐫𝐧𝐲𝐚 𝐤𝐚𝐤𝐚𝐤 𝄞",
+    "format_starlight": "*[ Format Starlight Card ]*\n\n- *Username:*\n- *ID:*\n- *Jenis Pesanan:* Basic / Premium\n- *Tanggal Pemesanan:*\n- *Tanggal Pengiriman:*",
+    "frame_bottom": "╚═════════════☉",
+    "frame_middle": "║◈ ",
+    "frame_top": "╔══☉︎ {text}",
+    "menu_content": "{menu_prefix}*{command_1}* : {description_1}\n{menu_prefix}*{command_2}* : {description_2}\n{menu_prefix}*{command_3}* : {description_3}\n\nGunakan perintah sesuai kebutuhan kamu.",
+    "menu_footer": "────────────────────────────\n📅 Tanggal: {date}\n🕒 Waktu: {time}\n\nTerima kasih telah menggunakan layanan *{store_name}*.",
+    "menu_header": "*[ Daftar Menu Layanan ]*\n\nSelamat datang di *{store_name}*. Berikut adalah fitur dan layanan yang tersedia:",
+    "menu_prefix": "- ",
+    "payment_gateway": "*[ Selesaikan Pembayaran ]*\n\n- *No. Pelanggan:* {user_name}\n- *No. Referensi:* {ref_id}\n- *Kode Produk:* {product_code}\n- *Nama Produk:* {product_name}\n- *Total Pembayaran:* {amount}\n- *Batas Waktu:* {expiry_time}\n\nSilahkan scan QRIS di atas menggunakan E-wallet atau Mobile Banking sebelum {expiry_time}.",
+    "transaction_failed": "*[ {message} ]*\n\n- *Kode Produk:* {product_code}\n- *Nama Produk:* {product_name}\n- *No. Referensi:* {ref_id}\n- *No. Tujuan:* {customer_no}\n- *Harga:* {selling_price}\n- *Status:* {status}\n- *Waktu:* {time}\n\nMohon maaf, transaksi kamu tidak berhasil di *{store_name}*",
+    "transaction_notification": "*[ Notifikasi Transaksi ]*\n\n- *Pelanggan:* {user_name}\n- *Kode Produk:* {product_code}\n- *Nama Produk:* {product_name}\n- *No. Referensi:* {ref_id}\n- *No. Tujuan:* {customer_no}\n- *Harga:* {selling_price}\n- *Profit:* {profit}\n- *Saldo Awal:* {initial_balance}\n- *Saldo Akhir:* {final_balance}\n- *Status:* {status}\n- *Waktu:* {time}",
+    "transaction_processing": "Pesanan *#{reference_id}* ({product_name}) sedang diproses. Mohon tunggu...",
+    "transaction_success": "*[ {message} ]*\n\n- *Kode Produk:* {product_code}\n- *Nama Produk:* {product_name}\n- *No. Referensi:* {ref_id}\n- *No. Tujuan:* {customer_no}\n- *Saldo Awal:* {initial_balance}\n- *Saldo Akhir:* {final_balance}\n- *Serial Number:* {sn}\n- *Status:* {status}\n- *Waktu:* {time}\n\nTerima kasih telah bertransaksi di *{store_name}*"
+}
