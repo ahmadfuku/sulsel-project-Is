@@ -1,0 +1,1502 @@
+[
+  {
+    "cmd": "islam1",
+    "soal": "Kitab suci umat Islam?",
+    "jawaban": "alquran"
+  },
+  {
+    "cmd": "islam2",
+    "soal": "Rukun Islam ada berapa?",
+    "jawaban": "lima"
+  },
+  {
+    "cmd": "islam3",
+    "soal": "Kiblat umat Islam menuju ke?",
+    "jawaban": "kabah"
+  },
+  {
+    "cmd": "islam4",
+    "soal": "Kota kelahiran Nabi Muhammad SAW?",
+    "jawaban": "makkah"
+  },
+  {
+    "cmd": "islam5",
+    "soal": "Bulan suci umat Islam?",
+    "jawaban": "ramadhan"
+  },
+  {
+    "cmd": "islam6",
+    "soal": "Malaikat penyampai wahyu?",
+    "jawaban": "jibril"
+  },
+  {
+    "cmd": "islam7",
+    "soal": "Jumlah surat dalam Al-Quran?",
+    "jawaban": "114"
+  },
+  {
+    "cmd": "islam8",
+    "soal": "Surat pertama dalam Al-Quran?",
+    "jawaban": "alfatihah"
+  },
+  {
+    "cmd": "islam9",
+    "soal": "Hari raya umat Islam setelah Ramadhan?",
+    "jawaban": "idul fitri"
+  },
+  {
+    "cmd": "islam10",
+    "soal": "Zakat yang wajib dikeluarkan saat Ramadhan?",
+    "jawaban": "fitrah"
+  },
+  {
+    "cmd": "islam11",
+    "soal": "Bahasa asli Al-Quran?",
+    "jawaban": "arab"
+  },
+  {
+    "cmd": "islam12",
+    "soal": "Rukun Islam yang pertama?",
+    "jawaban": "syahadat"
+  },
+  {
+    "cmd": "islam13",
+    "soal": "Malaikat pencatat amal baik?",
+    "jawaban": "raqib"
+  },
+  {
+    "cmd": "islam14",
+    "soal": "Malaikat pencatat amal buruk?",
+    "jawaban": "atid"
+  },
+  {
+    "cmd": "islam15",
+    "soal": "Nama lain untuk Madinah?",
+    "jawaban": "yathrib"
+  },
+  {
+    "cmd": "islam16",
+    "soal": "Ibadah haji dilakukan di bulan?",
+    "jawaban": "dzulhijjah"
+  },
+  {
+    "cmd": "islam17",
+    "soal": "Jumlah rakaat sholat Maghrib?",
+    "jawaban": "tiga"
+  },
+  {
+    "cmd": "islam18",
+    "soal": "Arah kiblat dari Indonesia?",
+    "jawaban": "barat"
+  },
+  {
+    "cmd": "islam19",
+    "soal": "Hari kiamat dalam bahasa Arab?",
+    "jawaban": "yaumul qiyamah"
+  },
+  {
+    "cmd": "islam20",
+    "soal": "Kitab yang diturunkan kepada Nabi Musa?",
+    "jawaban": "taurat"
+  },
+  {
+    "cmd": "islam21",
+    "soal": "Kitab yang diturunkan kepada Nabi Isa?",
+    "jawaban": "injil"
+  },
+  {
+    "cmd": "islam22",
+    "soal": "Kitab yang diturunkan kepada Nabi Daud?",
+    "jawaban": "zabur"
+  },
+  {
+    "cmd": "islam23",
+    "soal": "Malaikat peniup sangkakala?",
+    "jawaban": "israfil"
+  },
+  {
+    "cmd": "islam24",
+    "soal": "Malaikat pencabut nyawa?",
+    "jawaban": "izrail"
+  },
+  {
+    "cmd": "islam25",
+    "soal": "Sholat Jumat wajib bagi?",
+    "jawaban": "laki-laki"
+  },
+  {
+    "cmd": "islam26",
+    "soal": "Puasa wajib dilakukan pada bulan?",
+    "jawaban": "ramadhan"
+  },
+  {
+    "cmd": "islam27",
+    "soal": "Haji wajib bagi yang?",
+    "jawaban": "mampu"
+  },
+  {
+    "cmd": "islam28",
+    "soal": "Zakat mal wajib jika harta mencapai?",
+    "jawaban": "nisab"
+  },
+  {
+    "cmd": "islam29",
+    "soal": "Surat terakhir dalam Al-Quran?",
+    "jawaban": "annas"
+  },
+  {
+    "cmd": "islam30",
+    "soal": "Kalimat tauhid dalam Islam?",
+    "jawaban": "lailahaillallah"
+  },
+  {
+    "cmd": "islam31",
+    "soal": "Rukun iman ada berapa?",
+    "jawaban": "enam"
+  },
+  {
+    "cmd": "islam32",
+    "soal": "Peristiwa Isra Mi'raj terjadi pada bulan?",
+    "jawaban": "rajab"
+  },
+  {
+    "cmd": "islam33",
+    "soal": "Jumlah malaikat yang wajib diimani?",
+    "jawaban": "sepuluh"
+  },
+  {
+    "cmd": "islam34",
+    "soal": "Masjid pertama yang dibangun di Islam?",
+    "jawaban": "quba"
+  },
+  {
+    "cmd": "islam35",
+    "soal": "Masjid ketiga yang disucikan dalam Islam?",
+    "jawaban": "aqsa"
+  },
+  {
+    "cmd": "islam36",
+    "soal": "Istri pertama Rasulullah SAW?",
+    "jawaban": "khadijah"
+  },
+  {
+    "cmd": "islam37",
+    "soal": "Sahabat yang dijuluki As-Shiddiq?",
+    "jawaban": "abubakar"
+  },
+  {
+    "cmd": "islam38",
+    "soal": "Sahabat yang dijuluki Al-Faruq?",
+    "jawaban": "umar"
+  },
+  {
+    "cmd": "islam39",
+    "soal": "Khalifah pertama setelah Rasulullah?",
+    "jawaban": "abubakar"
+  },
+  {
+    "cmd": "islam40",
+    "soal": "Bulan lahirnya Nabi Muhammad SAW?",
+    "jawaban": "rabiulawal"
+  },
+  {
+    "cmd": "islam41",
+    "soal": "Tahun gajah adalah tahun?",
+    "jawaban": "kelahiran nabi"
+  },
+  {
+    "cmd": "islam42",
+    "soal": "Perang pertama dalam Islam?",
+    "jawaban": "badar"
+  },
+  {
+    "cmd": "islam43",
+    "soal": "Perang Uhud terjadi di tahun?",
+    "jawaban": "ketiga hijriah"
+  },
+  {
+    "cmd": "islam44",
+    "soal": "Penaklukan kota Makkah disebut?",
+    "jawaban": "fathu makkah"
+  },
+  {
+    "cmd": "islam45",
+    "soal": "Hijrah Nabi dari Makkah ke?",
+    "jawaban": "madinah"
+  },
+  {
+    "cmd": "islam46",
+    "soal": "Surat yang disebut jantung Al-Quran?",
+    "jawaban": "yasin"
+  },
+  {
+    "cmd": "islam47",
+    "soal": "Nabi yang diutus kepada kaum Tsamud?",
+    "jawaban": "saleh"
+  },
+  {
+    "cmd": "islam48",
+    "soal": "Nabi yang dapat berbicara dengan hewan?",
+    "jawaban": "sulaiman"
+  },
+  {
+    "cmd": "islam49",
+    "soal": "Jumlah juz dalam Al-Quran?",
+    "jawaban": "30"
+  },
+  {
+    "cmd": "islam50",
+    "soal": "Hari kiamat akan didahului oleh?",
+    "jawaban": "kematian"
+  },
+  {
+    "cmd": "nabi1",
+    "soal": "Nabi pertama yang diciptakan Allah?",
+    "jawaban": "adam"
+  },
+  {
+    "cmd": "nabi2",
+    "soal": "Nabi terakhir yang diutus Allah?",
+    "jawaban": "muhammad"
+  },
+  {
+    "cmd": "nabi3",
+    "soal": "Nabi yang membuat bahtera saat banjir besar?",
+    "jawaban": "nuh"
+  },
+  {
+    "cmd": "nabi4",
+    "soal": "Nabi yang dijuluki Khalilullah?",
+    "jawaban": "ibrahim"
+  },
+  {
+    "cmd": "nabi5",
+    "soal": "Nabi yang dijuluki Kalimullah?",
+    "jawaban": "musa"
+  },
+  {
+    "cmd": "nabi6",
+    "soal": "Nabi yang diutus ke kaum Madyan?",
+    "jawaban": "syuaib"
+  },
+  {
+    "cmd": "nabi7",
+    "soal": "Nabi yang disembuhkan dari penyakit oleh Allah?",
+    "jawaban": "ayyub"
+  },
+  {
+    "cmd": "nabi8",
+    "soal": "Nabi yang terkenal dengan kesabarannya?",
+    "jawaban": "ayyub"
+  },
+  {
+    "cmd": "nabi9",
+    "soal": "Nabi yang dapat berbicara saat masih bayi?",
+    "jawaban": "isa"
+  },
+  {
+    "cmd": "nabi10",
+    "soal": "Nabi yang diangkat ke langit tanpa mati?",
+    "jawaban": "isa"
+  },
+  {
+    "cmd": "nabi11",
+    "soal": "Nabi yang dijuluki Sayyidul Mursalin?",
+    "jawaban": "muhammad"
+  },
+  {
+    "cmd": "nabi12",
+    "soal": "Nabi yang ayahnya juga seorang nabi?",
+    "jawaban": "ishaq"
+  },
+  {
+    "cmd": "nabi13",
+    "soal": "Nabi yang dibuang ke sumur oleh saudaranya?",
+    "jawaban": "yusuf"
+  },
+  {
+    "cmd": "nabi14",
+    "soal": "Nabi yang menjadi raja dan nabi?",
+    "jawaban": "sulaiman"
+  },
+  {
+    "cmd": "nabi15",
+    "soal": "Nabi yang menerima Zabur?",
+    "jawaban": "daud"
+  },
+  {
+    "cmd": "nabi16",
+    "soal": "Nabi yang membelah laut?",
+    "jawaban": "musa"
+  },
+  {
+    "cmd": "nabi17",
+    "soal": "Nabi yang diutus ke kaum Ad?",
+    "jawaban": "hud"
+  },
+  {
+    "cmd": "nabi18",
+    "soal": "Nabi yang diutus ke kaum Tsamud?",
+    "jawaban": "saleh"
+  },
+  {
+    "cmd": "nabi19",
+    "soal": "Nabi yang diutus ke kaum Sodom?",
+    "jawaban": "luth"
+  },
+  {
+    "cmd": "nabi20",
+    "soal": "Jumlah nabi yang wajib diketahui?",
+    "jawaban": "25"
+  },
+  {
+    "cmd": "nabi21",
+    "soal": "Nabi yang bapaknya Nabi Ibrahim?",
+    "jawaban": "ismail"
+  },
+  {
+    "cmd": "nabi22",
+    "soal": "Nabi yang bapaknya Nabi Ishaq?",
+    "jawaban": "yaqub"
+  },
+  {
+    "cmd": "nabi23",
+    "soal": "Nabi yang bapaknya Nabi Yaqub?",
+    "jawaban": "yusuf"
+  },
+  {
+    "cmd": "nabi24",
+    "soal": "Nabi yang ditelan ikan?",
+    "jawaban": "yunus"
+  },
+  {
+    "cmd": "nabi25",
+    "soal": "Nabi yang dijuluki Ulul Azmi?",
+    "jawaban": "nuh"
+  },
+  {
+    "cmd": "nabi26",
+    "soal": "Nabi yang wafat di langit?",
+    "jawaban": "idris"
+  },
+  {
+    "cmd": "nabi27",
+    "soal": "Nabi yang membangun Kakbah?",
+    "jawaban": "ibrahim"
+  },
+  {
+    "cmd": "nabi28",
+    "soal": "Nabi yang disembelih unta betina?",
+    "jawaban": "saleh"
+  },
+  {
+    "cmd": "nabi29",
+    "soal": "Nabi yang lahir tanpa ayah?",
+    "jawaban": "isa"
+  },
+  {
+    "cmd": "nabi30",
+    "soal": "Nabi yang istri dan anaknya kafir?",
+    "jawaban": "nuh"
+  },
+  {
+    "cmd": "nabi31",
+    "soal": "Nabi yang menjadi perdana menteri Mesir?",
+    "jawaban": "yusuf"
+  },
+  {
+    "cmd": "nabi32",
+    "soal": "Nabi yang dapat menghidupkan burung mati?",
+    "jawaban": "isa"
+  },
+  {
+    "cmd": "nabi33",
+    "soal": "Nabi yang mendapat mukjizat tongkat?",
+    "jawaban": "musa"
+  },
+  {
+    "cmd": "nabi34",
+    "soal": "Nabi yang diberi mukjizat angin?",
+    "jawaban": "sulaiman"
+  },
+  {
+    "cmd": "nabi35",
+    "soal": "Nabi yang mendapat lembaran suci?",
+    "jawaban": "ibrahim"
+  },
+  {
+    "cmd": "nabi36",
+    "soal": "Nabi yang bertemu dengan Khidir?",
+    "jawaban": "musa"
+  },
+  {
+    "cmd": "nabi37",
+    "soal": "Nabi yang dibakar api oleh Namrud?",
+    "jawaban": "ibrahim"
+  },
+  {
+    "cmd": "nabi38",
+    "soal": "Nabi yang kaumnya dihujani batu?",
+    "jawaban": "luth"
+  },
+  {
+    "cmd": "nabi39",
+    "soal": "Nabi yang dapat menyembuhkan orang buta?",
+    "jawaban": "isa"
+  },
+  {
+    "cmd": "nabi40",
+    "soal": "Nabi yang berhadapan dengan Firaun?",
+    "jawaban": "musa"
+  },
+  {
+    "cmd": "nabi41",
+    "soal": "Nabi yang umurnya paling panjang?",
+    "jawaban": "nuh"
+  },
+  {
+    "cmd": "nabi42",
+    "soal": "Nabi yang bisa mengerti bahasa burung?",
+    "jawaban": "sulaiman"
+  },
+  {
+    "cmd": "nabi43",
+    "soal": "Nabi yang istri pertamanya Sarah?",
+    "jawaban": "ibrahim"
+  },
+  {
+    "cmd": "nabi44",
+    "soal": "Nabi yang istri keduanya Hajar?",
+    "jawaban": "ibrahim"
+  },
+  {
+    "cmd": "nabi45",
+    "soal": "Nabi yang disebut Abul Basyar?",
+    "jawaban": "adam"
+  },
+  {
+    "cmd": "nabi46",
+    "soal": "Nabi yang melakukan hijrah ke Madinah?",
+    "jawaban": "muhammad"
+  },
+  {
+    "cmd": "nabi47",
+    "soal": "Nabi yang mendapat mukjizat Al-Quran?",
+    "jawaban": "muhammad"
+  },
+  {
+    "cmd": "nabi48",
+    "soal": "Nabi yang tidak punya anak laki-laki dewasa?",
+    "jawaban": "muhammad"
+  },
+  {
+    "cmd": "nabi49",
+    "soal": "Nabi yang dijuluki Ummiyy?",
+    "jawaban": "muhammad"
+  },
+  {
+    "cmd": "nabi50",
+    "soal": "Nabi yang menikah dengan Khadijah?",
+    "jawaban": "muhammad"
+  },
+  {
+    "cmd": "ramadhan1",
+    "soal": "Bulan wajib berpuasa bagi umat Islam?",
+    "jawaban": "ramadhan"
+  },
+  {
+    "cmd": "ramadhan2",
+    "soal": "Makan sebelum fajar saat puasa disebut?",
+    "jawaban": "sahur"
+  },
+  {
+    "cmd": "ramadhan3",
+    "soal": "Membatalkan puasa dengan makan dan minum?",
+    "jawaban": "berbuka"
+  },
+  {
+    "cmd": "ramadhan4",
+    "soal": "Sholat sunah malam di bulan Ramadhan?",
+    "jawaban": "tarawih"
+  },
+  {
+    "cmd": "ramadhan5",
+    "soal": "Zakat yang wajib dibayar saat Ramadhan?",
+    "jawaban": "fitrah"
+  },
+  {
+    "cmd": "ramadhan6",
+    "soal": "Hari raya setelah bulan Ramadhan?",
+    "jawaban": "idul fitri"
+  },
+  {
+    "cmd": "ramadhan7",
+    "soal": "Malam yang lebih baik dari seribu bulan?",
+    "jawaban": "lailatul qadar"
+  },
+  {
+    "cmd": "ramadhan8",
+    "soal": "Puasa Ramadhan adalah rukun Islam ke?",
+    "jawaban": "empat"
+  },
+  {
+    "cmd": "ramadhan9",
+    "soal": "Waktu berbuka puasa saat adzan?",
+    "jawaban": "maghrib"
+  },
+  {
+    "cmd": "ramadhan10",
+    "soal": "Niat puasa harus dilakukan sebelum?",
+    "jawaban": "subuh"
+  },
+  {
+    "cmd": "ramadhan11",
+    "soal": "Orang yang memberi makan berbuka disebut?",
+    "jawaban": "muthim"
+  },
+  {
+    "cmd": "ramadhan12",
+    "soal": "Al-Quran diturunkan pada bulan?",
+    "jawaban": "ramadhan"
+  },
+  {
+    "cmd": "ramadhan13",
+    "soal": "Lama berpuasa dalam sehari?",
+    "jawaban": "14 jam"
+  },
+  {
+    "cmd": "ramadhan14",
+    "soal": "Yang membatalkan puasa adalah?",
+    "jawaban": "makan"
+  },
+  {
+    "cmd": "ramadhan15",
+    "soal": "Puasa wajib bagi muslim yang?",
+    "jawaban": "baligh"
+  },
+  {
+    "cmd": "ramadhan16",
+    "soal": "Orang yang tidak boleh puasa karena sakit?",
+    "jawaban": "wajib qadha"
+  },
+  {
+    "cmd": "ramadhan17",
+    "soal": "Sholat witir dilakukan setelah sholat?",
+    "jawaban": "tarawih"
+  },
+  {
+    "cmd": "ramadhan18",
+    "soal": "Ramadhan adalah bulan ke berapa hijriah?",
+    "jawaban": "sembilan"
+  },
+  {
+    "cmd": "ramadhan19",
+    "soal": "Pintu surga yang dibuka saat Ramadhan?",
+    "jawaban": "rayyan"
+  },
+  {
+    "cmd": "ramadhan20",
+    "soal": "Yang ditutup saat bulan Ramadhan?",
+    "jawaban": "pintu neraka"
+  },
+  {
+    "cmd": "ramadhan21",
+    "soal": "Syaitan dibelenggu pada bulan?",
+    "jawaban": "ramadhan"
+  },
+  {
+    "cmd": "ramadhan22",
+    "soal": "Ibadah yang disukai Allah saat Ramadhan?",
+    "jawaban": "puasa"
+  },
+  {
+    "cmd": "ramadhan23",
+    "soal": "Berbuka dengan yang manis disunnahkan dengan?",
+    "jawaban": "kurma"
+  },
+  {
+    "cmd": "ramadhan24",
+    "soal": "Lailatul Qadar jatuh pada malam?",
+    "jawaban": "ganjil"
+  },
+  {
+    "cmd": "ramadhan25",
+    "soal": "Sepuluh hari terakhir Ramadhan disebut?",
+    "jawaban": "asyratul awakhir"
+  },
+  {
+    "cmd": "ramadhan26",
+    "soal": "Itikaf dilakukan di?",
+    "jawaban": "masjid"
+  },
+  {
+    "cmd": "ramadhan27",
+    "soal": "Membaca Al-Quran di bulan Ramadhan pahalanya?",
+    "jawaban": "berlipat"
+  },
+  {
+    "cmd": "ramadhan28",
+    "soal": "Fidyah dibayar oleh orang yang?",
+    "jawaban": "tidak mampu puasa"
+  },
+  {
+    "cmd": "ramadhan29",
+    "soal": "Takjil adalah?",
+    "jawaban": "makanan berbuka"
+  },
+  {
+    "cmd": "ramadhan30",
+    "soal": "Amalan yang disukai saat sahur?",
+    "jawaban": "doa"
+  },
+  {
+    "cmd": "ramadhan31",
+    "soal": "Bulan setelah Ramadhan?",
+    "jawaban": "syawal"
+  },
+  {
+    "cmd": "ramadhan32",
+    "soal": "Bulan sebelum Ramadhan?",
+    "jawaban": "syaban"
+  },
+  {
+    "cmd": "ramadhan33",
+    "soal": "Tadarus adalah kegiatan?",
+    "jawaban": "membaca quran"
+  },
+  {
+    "cmd": "ramadhan34",
+    "soal": "Orang yang sengaja berbuka dapat?",
+    "jawaban": "dosa"
+  },
+  {
+    "cmd": "ramadhan35",
+    "soal": "Keutamaan puasa adalah menahan?",
+    "jawaban": "nafsu"
+  },
+  {
+    "cmd": "ramadhan36",
+    "soal": "Jumlah rakaat sholat tarawih?",
+    "jawaban": "sebelas"
+  },
+  {
+    "cmd": "ramadhan37",
+    "soal": "Orang yang batal puasanya harus?",
+    "jawaban": "qadha"
+  },
+  {
+    "cmd": "ramadhan38",
+    "soal": "Zakat fitrah berupa?",
+    "jawaban": "makanan pokok"
+  },
+  {
+    "cmd": "ramadhan39",
+    "soal": "Ukuran zakat fitrah per orang?",
+    "jawaban": "2.5 kg"
+  },
+  {
+    "cmd": "ramadhan40",
+    "soal": "Waktu pembayaran zakat fitrah paling lambat?",
+    "jawaban": "sebelum sholat id"
+  },
+  {
+    "cmd": "ramadhan41",
+    "soal": "Puasa yang haram dilakukan pada hari?",
+    "jawaban": "idul fitri"
+  },
+  {
+    "cmd": "ramadhan42",
+    "soal": "Sholat Id dilakukan pada pagi hari?",
+    "jawaban": "idul fitri"
+  },
+  {
+    "cmd": "ramadhan43",
+    "soal": "Bersilaturahmi saat lebaran disebut?",
+    "jawaban": "halal bihalal"
+  },
+  {
+    "cmd": "ramadhan44",
+    "soal": "Doa berbuka puasa dimulai dengan?",
+    "jawaban": "allahumma"
+  },
+  {
+    "cmd": "ramadhan45",
+    "soal": "Hikmah puasa adalah melatih?",
+    "jawaban": "kesabaran"
+  },
+  {
+    "cmd": "ramadhan46",
+    "soal": "Orang yang berbuka di jalan disebut?",
+    "jawaban": "musafir"
+  },
+  {
+    "cmd": "ramadhan47",
+    "soal": "Puasa sunah setelah Ramadhan?",
+    "jawaban": "syawal"
+  },
+  {
+    "cmd": "ramadhan48",
+    "soal": "Jumlah hari puasa sunah Syawal?",
+    "jawaban": "enam"
+  },
+  {
+    "cmd": "ramadhan49",
+    "soal": "Ramadhan mengajarkan umat untuk?",
+    "jawaban": "bersyukur"
+  },
+  {
+    "cmd": "ramadhan50",
+    "soal": "Berbuka puasa bersama disebut?",
+    "jawaban": "buka bersama"
+  },
+  {
+    "cmd": "hadits1",
+    "soal": "Perkataan Nabi Muhammad disebut?",
+    "jawaban": "hadits"
+  },
+  {
+    "cmd": "hadits2",
+    "soal": "Orang yang meriwayatkan hadits?",
+    "jawaban": "perawi"
+  },
+  {
+    "cmd": "hadits3",
+    "soal": "Hadits yang sanadnya sampai Nabi?",
+    "jawaban": "marfu"
+  },
+  {
+    "cmd": "hadits4",
+    "soal": "Hadits yang paling shahih?",
+    "jawaban": "muttafaq alaih"
+  },
+  {
+    "cmd": "hadits5",
+    "soal": "Kitab hadits yang paling shahih?",
+    "jawaban": "shahih bukhari"
+  },
+  {
+    "cmd": "hadits6",
+    "soal": "Penulis kitab Shahih Muslim?",
+    "jawaban": "imam muslim"
+  },
+  {
+    "cmd": "hadits7",
+    "soal": "Penulis kitab Shahih Bukhari?",
+    "jawaban": "imam bukhari"
+  },
+  {
+    "cmd": "hadits8",
+    "soal": "Jumlah kitab hadits yang masyhur?",
+    "jawaban": "enam"
+  },
+  {
+    "cmd": "hadits9",
+    "soal": "Hadits yang perawinya terpercaya?",
+    "jawaban": "shahih"
+  },
+  {
+    "cmd": "hadits10",
+    "soal": "Hadits yang perawinya lemah?",
+    "jawaban": "dhaif"
+  },
+  {
+    "cmd": "hadits11",
+    "soal": "Perbuatan Nabi disebut?",
+    "jawaban": "sunnah"
+  },
+  {
+    "cmd": "hadits12",
+    "soal": "Hadits yang diriwayatkan banyak orang?",
+    "jawaban": "mutawatir"
+  },
+  {
+    "cmd": "hadits13",
+    "soal": "Hadits yang diriwayatkan sedikit orang?",
+    "jawaban": "ahad"
+  },
+  {
+    "cmd": "hadits14",
+    "soal": "Ilmu yang mempelajari hadits?",
+    "jawaban": "mustalah hadits"
+  },
+  {
+    "cmd": "hadits15",
+    "soal": "Rangkaian perawi hadits disebut?",
+    "jawaban": "sanad"
+  },
+  {
+    "cmd": "hadits16",
+    "soal": "Isi atau matan hadits adalah?",
+    "jawaban": "teks hadits"
+  },
+  {
+    "cmd": "hadits17",
+    "soal": "Hadits yang tidak sampai ke Nabi?",
+    "jawaban": "mauquf"
+  },
+  {
+    "cmd": "hadits18",
+    "soal": "Hadits palsu disebut?",
+    "jawaban": "maudhu"
+  },
+  {
+    "cmd": "hadits19",
+    "soal": "Sunnah yang wajib diikuti?",
+    "jawaban": "muakkadah"
+  },
+  {
+    "cmd": "hadits20",
+    "soal": "Hadits yang sanadnya terputus?",
+    "jawaban": "munqathi"
+  },
+  {
+    "cmd": "hadits21",
+    "soal": "Kitab hadits karya Abu Daud?",
+    "jawaban": "sunan abu daud"
+  },
+  {
+    "cmd": "hadits22",
+    "soal": "Kitab hadits karya Tirmidzi?",
+    "jawaban": "sunan tirmidzi"
+  },
+  {
+    "cmd": "hadits23",
+    "soal": "Kitab hadits karya Nasai?",
+    "jawaban": "sunan nasai"
+  },
+  {
+    "cmd": "hadits24",
+    "soal": "Kitab hadits karya Ibnu Majah?",
+    "jawaban": "sunan ibnu majah"
+  },
+  {
+    "cmd": "hadits25",
+    "soal": "Hadits tentang niat berbunyi?",
+    "jawaban": "innama amal"
+  },
+  {
+    "cmd": "hadits26",
+    "soal": "Muslim yang paling baik menurut hadits?",
+    "jawaban": "yang terbaik akhlaknya"
+  },
+  {
+    "cmd": "hadits27",
+    "soal": "Sebaik-baik manusia adalah yang?",
+    "jawaban": "bermanfaat"
+  },
+  {
+    "cmd": "hadits28",
+    "soal": "Mencari ilmu adalah?",
+    "jawaban": "wajib"
+  },
+  {
+    "cmd": "hadits29",
+    "soal": "Hadits tentang surga di bawah telapak kaki?",
+    "jawaban": "ibu"
+  },
+  {
+    "cmd": "hadits30",
+    "soal": "Kebersihan adalah sebagian dari?",
+    "jawaban": "iman"
+  },
+  {
+    "cmd": "hadits31",
+    "soal": "Senyum kepada saudara adalah?",
+    "jawaban": "sedekah"
+  },
+  {
+    "cmd": "hadits32",
+    "soal": "Hadits tentang menuntut ilmu sampai ke?",
+    "jawaban": "negeri cina"
+  },
+  {
+    "cmd": "hadits33",
+    "soal": "Tangan di atas lebih baik dari?",
+    "jawaban": "tangan di bawah"
+  },
+  {
+    "cmd": "hadits34",
+    "soal": "Barang siapa menyakini Allah maka?",
+    "jawaban": "masuk surga"
+  },
+  {
+    "cmd": "hadits35",
+    "soal": "Hadits diriwayatkan secara?",
+    "jawaban": "lisan"
+  },
+  {
+    "cmd": "hadits36",
+    "soal": "Pembukuan hadits pertama kali oleh?",
+    "jawaban": "umar bin abdul aziz"
+  },
+  {
+    "cmd": "hadits37",
+    "soal": "Hadits yang bertentangan dengan Al-Quran?",
+    "jawaban": "ditolak"
+  },
+  {
+    "cmd": "hadits38",
+    "soal": "Persetujuan Nabi terhadap perbuatan sahabat?",
+    "jawaban": "taqrir"
+  },
+  {
+    "cmd": "hadits39",
+    "soal": "Hadits qudsi adalah hadits yang?",
+    "jawaban": "dari allah"
+  },
+  {
+    "cmd": "hadits40",
+    "soal": "Imam yang mengumpulkan hadits shahih?",
+    "jawaban": "bukhari"
+  },
+  {
+    "cmd": "hadits41",
+    "soal": "Hadits tentang iman kepada Allah?",
+    "jawaban": "rukun iman"
+  },
+  {
+    "cmd": "hadits42",
+    "soal": "Hadits tentang Islam adalah?",
+    "jawaban": "rukun islam"
+  },
+  {
+    "cmd": "hadits43",
+    "soal": "Hadits tentang ihsan adalah?",
+    "jawaban": "beribadah seolah melihat allah"
+  },
+  {
+    "cmd": "hadits44",
+    "soal": "Malaikat Jibril datang bertanya dalam bentuk?",
+    "jawaban": "manusia"
+  },
+  {
+    "cmd": "hadits45",
+    "soal": "Hadits yang diriwayatkan dari sahabat?",
+    "jawaban": "atsar"
+  },
+  {
+    "cmd": "hadits46",
+    "soal": "Hadits yang memiliki 2 jalur periwayatan?",
+    "jawaban": "aziz"
+  },
+  {
+    "cmd": "hadits47",
+    "soal": "Hadits yang memiliki 3 jalur periwayatan?",
+    "jawaban": "masyhur"
+  },
+  {
+    "cmd": "hadits48",
+    "soal": "Kitab hadits 40 disusun oleh?",
+    "jawaban": "imam nawawi"
+  },
+  {
+    "cmd": "hadits49",
+    "soal": "Hadits tentang larangan marah disebutkan?",
+    "jawaban": "tiga kali"
+  },
+  {
+    "cmd": "hadits50",
+    "soal": "Hadits yang sahih adalah sumber hukum ke?",
+    "jawaban": "dua"
+  },
+  {
+    "cmd": "fiqih1",
+    "soal": "Rukun Islam ada berapa?",
+    "jawaban": "lima"
+  },
+  {
+    "cmd": "fiqih2",
+    "soal": "Sholat wajib dalam sehari semalam?",
+    "jawaban": "lima"
+  },
+  {
+    "cmd": "fiqih3",
+    "soal": "Rukun sholat yang pertama?",
+    "jawaban": "niat"
+  },
+  {
+    "cmd": "fiqih4",
+    "soal": "Syarat wajib sholat adalah?",
+    "jawaban": "islam"
+  },
+  {
+    "cmd": "fiqih5",
+    "soal": "Jumlah rakaat sholat Subuh?",
+    "jawaban": "dua"
+  },
+  {
+    "cmd": "fiqih6",
+    "soal": "Jumlah rakaat sholat Dzuhur?",
+    "jawaban": "empat"
+  },
+  {
+    "cmd": "fiqih7",
+    "soal": "Jumlah rakaat sholat Ashar?",
+    "jawaban": "empat"
+  },
+  {
+    "cmd": "fiqih8",
+    "soal": "Jumlah rakaat sholat Maghrib?",
+    "jawaban": "tiga"
+  },
+  {
+    "cmd": "fiqih9",
+    "soal": "Jumlah rakaat sholat Isya?",
+    "jawaban": "empat"
+  },
+  {
+    "cmd": "fiqih10",
+    "soal": "Wudhu adalah syarat?",
+    "jawaban": "sah sholat"
+  },
+  {
+    "cmd": "fiqih11",
+    "soal": "Rukun wudhu yang pertama?",
+    "jawaban": "niat"
+  },
+  {
+    "cmd": "fiqih12",
+    "soal": "Tayamum dilakukan jika tidak ada?",
+    "jawaban": "air"
+  },
+  {
+    "cmd": "fiqih13",
+    "soal": "Zakat wajib jika harta mencapai?",
+    "jawaban": "nisab"
+  },
+  {
+    "cmd": "fiqih14",
+    "soal": "Zakat mal dikeluarkan sebesar?",
+    "jawaban": "2.5 persen"
+  },
+  {
+    "cmd": "fiqih15",
+    "soal": "Haul adalah jangka waktu?",
+    "jawaban": "satu tahun"
+  },
+  {
+    "cmd": "fiqih16",
+    "soal": "Orang yang berhak menerima zakat?",
+    "jawaban": "fakir"
+  },
+  {
+    "cmd": "fiqih17",
+    "soal": "Jumlah golongan penerima zakat?",
+    "jawaban": "delapan"
+  },
+  {
+    "cmd": "fiqih18",
+    "soal": "Puasa Ramadhan wajib bagi muslim yang?",
+    "jawaban": "mukallaf"
+  },
+  {
+    "cmd": "fiqih19",
+    "soal": "Rukun puasa yang pertama?",
+    "jawaban": "niat"
+  },
+  {
+    "cmd": "fiqih20",
+    "soal": "Yang membatalkan puasa?",
+    "jawaban": "makan"
+  },
+  {
+    "cmd": "fiqih21",
+    "soal": "Haji wajib dilakukan berapa kali?",
+    "jawaban": "sekali"
+  },
+  {
+    "cmd": "fiqih22",
+    "soal": "Rukun haji yang pertama?",
+    "jawaban": "ihram"
+  },
+  {
+    "cmd": "fiqih23",
+    "soal": "Wukuf dilakukan di?",
+    "jawaban": "arafah"
+  },
+  {
+    "cmd": "fiqih24",
+    "soal": "Thawaf dilakukan di?",
+    "jawaban": "kabah"
+  },
+  {
+    "cmd": "fiqih25",
+    "soal": "Sai dilakukan antara bukit?",
+    "jawaban": "shafa marwah"
+  },
+  {
+    "cmd": "fiqih26",
+    "soal": "Melontar jumrah dilakukan di?",
+    "jawaban": "mina"
+  },
+  {
+    "cmd": "fiqih27",
+    "soal": "Tahallul adalah?",
+    "jawaban": "mencukur rambut"
+  },
+  {
+    "cmd": "fiqih28",
+    "soal": "Haji yang paling utama?",
+    "jawaban": "ifrad"
+  },
+  {
+    "cmd": "fiqih29",
+    "soal": "Umrah boleh dilakukan kapan saja kecuali?",
+    "jawaban": "hari arafah"
+  },
+  {
+    "cmd": "fiqih30",
+    "soal": "Sholat Jumat wajib bagi?",
+    "jawaban": "laki-laki dewasa"
+  },
+  {
+    "cmd": "fiqih31",
+    "soal": "Khutbah Jumat dilakukan sebanyak?",
+    "jawaban": "dua kali"
+  },
+  {
+    "cmd": "fiqih32",
+    "soal": "Sholat jamaah lebih utama daripada?",
+    "jawaban": "sendirian"
+  },
+  {
+    "cmd": "fiqih33",
+    "soal": "Imam sholat sebaiknya yang paling?",
+    "jawaban": "fasih"
+  },
+  {
+    "cmd": "fiqih34",
+    "soal": "Sholat jenazah adalah?",
+    "jawaban": "fardhu kifayah"
+  },
+  {
+    "cmd": "fiqih35",
+    "soal": "Takbir dalam sholat jenazah?",
+    "jawaban": "empat kali"
+  },
+  {
+    "cmd": "fiqih36",
+    "soal": "Mandi wajib karena junub disebut?",
+    "jawaban": "mandi janabah"
+  },
+  {
+    "cmd": "fiqih37",
+    "soal": "Air yang suci dan mensucikan?",
+    "jawaban": "muthlaq"
+  },
+  {
+    "cmd": "fiqih38",
+    "soal": "Najis yang berat disebut?",
+    "jawaban": "mughaladzah"
+  },
+  {
+    "cmd": "fiqih39",
+    "soal": "Najis anjing dibersihkan dengan?",
+    "jawaban": "tujuh kali"
+  },
+  {
+    "cmd": "fiqih40",
+    "soal": "Hadas besar dihilangkan dengan?",
+    "jawaban": "mandi"
+  },
+  {
+    "cmd": "fiqih41",
+    "soal": "Hadas kecil dihilangkan dengan?",
+    "jawaban": "wudhu"
+  },
+  {
+    "cmd": "fiqih42",
+    "soal": "Nikah adalah sunnah?",
+    "jawaban": "muakkad"
+  },
+  {
+    "cmd": "fiqih43",
+    "soal": "Rukun nikah ada berapa?",
+    "jawaban": "lima"
+  },
+  {
+    "cmd": "fiqih44",
+    "soal": "Mahar adalah?",
+    "jawaban": "hak istri"
+  },
+  {
+    "cmd": "fiqih45",
+    "soal": "Talak adalah?",
+    "jawaban": "perceraian"
+  },
+  {
+    "cmd": "fiqih46",
+    "soal": "Iddah bagi janda adalah?",
+    "jawaban": "empat bulan sepuluh hari"
+  },
+  {
+    "cmd": "fiqih47",
+    "soal": "Hukum mempelajari fiqih adalah?",
+    "jawaban": "fardhu kifayah"
+  },
+  {
+    "cmd": "fiqih48",
+    "soal": "Ijtihad adalah?",
+    "jawaban": "mengeluarkan hukum"
+  },
+  {
+    "cmd": "fiqih49",
+    "soal": "Madzhab yang empat adalah?",
+    "jawaban": "hanafi"
+  },
+  {
+    "cmd": "fiqih50",
+    "soal": "Sumber hukum Islam yang pertama?",
+    "jawaban": "alquran"
+  },
+  {
+    "cmd": "iman1",
+    "soal": "Rukun iman yang pertama?",
+    "jawaban": "allah"
+  },
+  {
+    "cmd": "iman2",
+    "soal": "Beriman kepada Allah berarti?",
+    "jawaban": "meyakini"
+  },
+  {
+    "cmd": "iman3",
+    "soal": "Allah itu Maha Esa artinya?",
+    "jawaban": "satu"
+  },
+  {
+    "cmd": "iman4",
+    "soal": "Jumlah rukun iman?",
+    "jawaban": "enam"
+  },
+  {
+    "cmd": "iman5",
+    "soal": "Malaikat diciptakan dari?",
+    "jawaban": "cahaya"
+  },
+  {
+    "cmd": "iman6",
+    "soal": "Malaikat tidak memiliki sifat?",
+    "jawaban": "dosa"
+  },
+  {
+    "cmd": "iman7",
+    "soal": "Jumlah kitab Allah yang wajib diimani?",
+    "jawaban": "empat"
+  },
+  {
+    "cmd": "iman8",
+    "soal": "Kitab Taurat diturunkan kepada?",
+    "jawaban": "musa"
+  },
+  {
+    "cmd": "iman9",
+    "soal": "Kitab Zabur diturunkan kepada?",
+    "jawaban": "daud"
+  },
+  {
+    "cmd": "iman10",
+    "soal": "Kitab Injil diturunkan kepada?",
+    "jawaban": "isa"
+  },
+  {
+    "cmd": "iman11",
+    "soal": "Kitab Al-Quran diturunkan kepada?",
+    "jawaban": "muhammad"
+  },
+  {
+    "cmd": "iman12",
+    "soal": "Jumlah rasul yang wajib diketahui?",
+    "jawaban": "25"
+  },
+  {
+    "cmd": "iman13",
+    "soal": "Rasul adalah orang yang?",
+    "jawaban": "menerima wahyu"
+  },
+  {
+    "cmd": "iman14",
+    "soal": "Perbedaan nabi dan rasul?",
+    "jawaban": "rasul membawa syariat"
+  },
+  {
+    "cmd": "iman15",
+    "soal": "Hari kiamat disebut juga?",
+    "jawaban": "yaumul akhir"
+  },
+  {
+    "cmd": "iman16",
+    "soal": "Tanda-tanda hari kiamat disebut?",
+    "jawaban": "asyrath saat"
+  },
+  {
+    "cmd": "iman17",
+    "soal": "Hari kiamat hanya diketahui oleh?",
+    "jawaban": "allah"
+  },
+  {
+    "cmd": "iman18",
+    "soal": "Qada adalah?",
+    "jawaban": "ketentuan allah"
+  },
+  {
+    "cmd": "iman19",
+    "soal": "Qadar adalah?",
+    "jawaban": "takdir allah"
+  },
+  {
+    "cmd": "iman20",
+    "soal": "Beriman kepada qada dan qadar berarti?",
+    "jawaban": "menerima takdir"
+  },
+  {
+    "cmd": "iman21",
+    "soal": "Asmaul Husna adalah?",
+    "jawaban": "nama allah"
+  },
+  {
+    "cmd": "iman22",
+    "soal": "Jumlah Asmaul Husna?",
+    "jawaban": "99"
+  },
+  {
+    "cmd": "iman23",
+    "soal": "Ar-Rahman artinya?",
+    "jawaban": "maha pengasih"
+  },
+  {
+    "cmd": "iman24",
+    "soal": "Ar-Rahim artinya?",
+    "jawaban": "maha penyayang"
+  },
+  {
+    "cmd": "iman25",
+    "soal": "Al-Malik artinya?",
+    "jawaban": "maha merajai"
+  },
+  {
+    "cmd": "iman26",
+    "soal": "Al-Quddus artinya?",
+    "jawaban": "maha suci"
+  },
+  {
+    "cmd": "iman27",
+    "soal": "As-Salam artinya?",
+    "jawaban": "maha sejahtera"
+  },
+  {
+    "cmd": "iman28",
+    "soal": "Al-Khaliq artinya?",
+    "jawaban": "maha pencipta"
+  },
+  {
+    "cmd": "iman29",
+    "soal": "Al-Aziz artinya?",
+    "jawaban": "maha perkasa"
+  },
+  {
+    "cmd": "iman30",
+    "soal": "Al-Hakim artinya?",
+    "jawaban": "maha bijaksana"
+  },
+  {
+    "cmd": "iman31",
+    "soal": "Iman artinya?",
+    "jawaban": "percaya"
+  },
+  {
+    "cmd": "iman32",
+    "soal": "Islam artinya?",
+    "jawaban": "berserah diri"
+  },
+  {
+    "cmd": "iman33",
+    "soal": "Ihsan artinya?",
+    "jawaban": "berbuat baik"
+  },
+  {
+    "cmd": "iman34",
+    "soal": "Tauhid adalah?",
+    "jawaban": "mengesakan allah"
+  },
+  {
+    "cmd": "iman35",
+    "soal": "Syirik adalah?",
+    "jawaban": "menyekutukan allah"
+  },
+  {
+    "cmd": "iman36",
+    "soal": "Munafik adalah?",
+    "jawaban": "berpura-pura beriman"
+  },
+  {
+    "cmd": "iman37",
+    "soal": "Kufur adalah?",
+    "jawaban": "tidak beriman"
+  },
+  {
+    "cmd": "iman38",
+    "soal": "Taqwa artinya?",
+    "jawaban": "takut kepada allah"
+  },
+  {
+    "cmd": "iman39",
+    "soal": "Sabar artinya?",
+    "jawaban": "menahan diri"
+  },
+  {
+    "cmd": "iman40",
+    "soal": "Syukur artinya?",
+    "jawaban": "berterima kasih"
+  },
+  {
+    "cmd": "iman41",
+    "soal": "Ridho artinya?",
+    "jawaban": "rela"
+  },
+  {
+    "cmd": "iman42",
+    "soal": "Ikhlas artinya?",
+    "jawaban": "tulus"
+  },
+  {
+    "cmd": "iman43",
+    "soal": "Tawakal artinya?",
+    "jawaban": "berserah diri"
+  },
+  {
+    "cmd": "iman44",
+    "soal": "Khusyu artinya?",
+    "jawaban": "khidmat"
+  },
+  {
+    "cmd": "iman45",
+    "soal": "Zuhud artinya?",
+    "jawaban": "sederhana"
+  },
+  {
+    "cmd": "iman46",
+    "soal": "Wara artinya?",
+    "jawaban": "hati-hati"
+  },
+  {
+    "cmd": "iman47",
+    "soal": "Qanaah artinya?",
+    "jawaban": "menerima apa adanya"
+  },
+  {
+    "cmd": "iman48",
+    "soal": "Istiqamah artinya?",
+    "jawaban": "konsisten"
+  },
+  {
+    "cmd": "iman49",
+    "soal": "Mahabbah artinya?",
+    "jawaban": "cinta"
+  },
+  {
+    "cmd": "iman50",
+    "soal": "Taubat artinya?",
+    "jawaban": "kembali"
+  }
+]
