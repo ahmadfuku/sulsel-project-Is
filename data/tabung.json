@@ -1,0 +1,33 @@
+{
+  "6281527100923@s.whatsapp.net": {
+    "total": 112000,
+    "riwayat": [
+      {
+        "nominal": 1000,
+        "hari": "Senin",
+        "tanggal": "09 Februari 2026",
+        "jam": "11.33.34",
+        "zona": "WIB"
+      },
+      {
+        "nominal": 111000,
+        "hari": "Senin",
+        "tanggal": "09 Februari 2026",
+        "jam": "11.33.49",
+        "zona": "WIB"
+      }
+    ]
+  },
+  "6282119088207@s.whatsapp.net": {
+    "total": 5000,
+    "riwayat": [
+      {
+        "nominal": 5000,
+        "hari": "Kamis",
+        "tanggal": "26 Februari 2026",
+        "jam": "04.53.38",
+        "zona": "WIB"
+      }
+    ]
+  }
+}
