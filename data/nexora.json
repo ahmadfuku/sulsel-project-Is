@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "Ikann",
+      "email": "ikann@example.com",
+      "ip": "192.168.1.100",
+      "password": "Ikann@123",
+      "create": "2026-07-31T14:42:00+08:00",
+      "premium": true,
+      "limit": 999999
+    },
+    {
+      "name": "Ahmad",
+      "email": "ahmad@example.com",
+      "ip": "103.45.12.89",
+      "password": "Ahmad@321",
+      "create": "2026-07-30T18:20:00+08:00",
+      "premium": false,
+      "limit": 100
+    }
+  ]
+}
